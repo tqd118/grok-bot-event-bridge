@@ -1,0 +1,7 @@
+scripts/webhook.env
+queue/messages.jsonl
+queue/*.jsonl
+__pycache__/
+*.pyc
+.venv/
+config.env
